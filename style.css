@@ -1,0 +1,226 @@
+* {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+}
+
+.navbar {
+      width: 100%;
+      height: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+.nav-child {
+      width: 90%;
+      height: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.nav1 {
+      width: 600px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+}
+
+.navbar button {
+      width: 150px;
+      height: 30px;
+      font-size: 12px;
+      border-radius: 20px;
+      color: white;
+      background-color: black;
+}
+
+.text {
+      width: 100%;
+      height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+.text-child {
+      width: 90%;
+      height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+}
+
+.text-child2 {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.text-child2 img {
+      width: 50px;
+      height: 50px;
+      border-radius: 50px;
+}
+
+.text-child4 input {
+      width: 550px;
+      height: 50px;
+      border-radius: 30px;
+      border: none;
+      border: 1px solid black;
+      padding-left: 20px;
+      font-size: 15px;
+}
+
+.img1 {
+      position: relative;
+}
+
+.img2 {
+      position: relative;
+      right: 27px;
+}
+
+.img3 {
+      position: relative;
+      right: 50px;
+}
+
+.text-child4 button {
+      width: 150px;
+      height: 40px;
+      background-color: black;
+      color: white;
+      border-radius: 30px;
+      border: none;
+      position: relative;
+      right: 162px;
+}
+
+.big-image {
+      width: 400px;
+      height: 400px;
+      position: relative;
+      right: 70px;
+}
+
+.last-container {
+      width: 100%;
+      height: 300px;
+      display: flex;
+      padding-left: 65px;
+}
+
+.terms {
+      width: 360px;
+      height: 250px;
+      background-color: black;
+      padding: 20px;
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      flex-direction: column;
+      color: white;
+}
+
+.terms1 {
+      width: 300px;
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+}
+
+.easily {
+      width: 360px;
+      height: 250px;
+      background-color: rgb(58, 172, 130);
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+}
+
+.easily1 button {
+      border: 1px solid rgb(255, 255, 255);
+      color: white;
+      width: 100px;
+      height: 35px;
+      border-radius: 20px;
+      background: none;
+}
+
+.easily1 {
+      width: 300px;
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+}
+
+.easily2 {
+      width: 300px;
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+}
+
+.rating {
+      width: 400px;
+      height: 250px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+      padding: 20px;
+}
+
+.rating1 {
+      width: 380px;
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+}
+
+.rating2 {
+      width: 380px;
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+}
+
+.star {
+      height: 20px;
+}
+
+.img4 {
+      width: 50px;
+      height: 50px;
+}
+
+.img20 {
+      display: flex;
+}
+
+.img11 {
+      height: 40px;
+      width: 40px;
+      border-radius: 20px;
+      position: relative;
+      left: 1px;
+}
+
+.img12 {
+      height: 40px;
+      border-radius: 20px;
+      position: relative;
+      right: 10px;
+}
+
+.img13 {
+      height: 40px;
+      border-radius: 20px;
+      position: relative;
+      right: 15px;
+}
